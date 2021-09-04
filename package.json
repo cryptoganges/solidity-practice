@@ -1,0 +1,19 @@
+{
+  "name": "solidity-practice",
+  "version": "1.0.0",
+  "description": "Practicing for Solidity interviews",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nate Gang",
+  "license": "ISC"
+}
