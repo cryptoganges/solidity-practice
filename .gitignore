@@ -105,3 +105,5 @@ dist
 
 .secret
 .alchemy
+
+build/
